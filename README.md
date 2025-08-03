@@ -39,7 +39,7 @@ This repository includes solutions for both assigned tasks using Flask and SQLit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/retain-flask-app.git
+   git clone https://github.com/Laharivanaja/retain-coding-challenge.git
    cd retain-flask-app
 2. Install dependencies
    pip install flask
